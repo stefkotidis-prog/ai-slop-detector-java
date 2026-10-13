@@ -1,10 +1,12 @@
 public class TestCode {
-    public void sayHello() {
-        System.out.println("Hello AI Slop!");
+    public void processData() {
+        int temp = 0;
+        String data = "user_input";
+        boolean result = false;
         
-        int x = 5;
-        if (x > 3) {
-            System.out.println("x is greater than 3");
-        }
+        int userAge = 19;
+        String databaseUrl = "localhost:5432";
+        
+        double value = 99.9;
     }
 }
