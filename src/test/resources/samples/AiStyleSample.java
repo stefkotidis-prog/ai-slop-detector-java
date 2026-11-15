@@ -1,4 +1,4 @@
-public class TestCode {
+public class AiStyleSample {
     
     // This method processes the data
     public void processData() {
